@@ -1,0 +1,146 @@
+body {
+  height: 100%;
+  width: 100%;
+  background-image: url("desk-background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+#wrapper {
+  height: 100%;
+  width: 100%;
+}
+
+#content-container {
+  height: 100%;
+  width:85%;
+  /* background-color: red; */
+  margin: 0 auto;
+}
+
+#top-name {
+  width:100%;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 2.5em;
+  color: #c73614;
+}
+
+.envelope {
+  margin-top: 60px;
+}
+
+.envelope img {
+  display: block;
+  margin: auto;
+}
+
+#main-content {
+  /* background-color: blue; */
+}
+
+#main-container {
+  margin: 20px 0;
+  background-color: rgb(255, 255, 255, 0.7);
+}
+
+.fillers {
+  width: 100%;
+  height: 25px;
+  background-color: #66adaf;
+}
+
+.small-fillers {
+  width: 100%;
+  height: 10px;
+  background-color: #66adaf;
+}
+
+.thanks {
+  margin: 20px 0;
+  /* background-color: green; */
+  text-align: center;
+}
+
+.thanks h1 {
+  font-size: 48px;
+  color: #c73614;
+}
+
+
+
+.main-paragraph {
+  margin: 0 17%;
+  text-align: center;
+  font-size: 18px;
+  font-family: sans-serif;
+  color: #575757;
+}
+
+.share {
+  padding: 40px;
+  float: left;
+  width: 42%;
+  background-color: rgb(255, 255, 255, 0.7)
+}
+
+.visit {
+  padding: 40px;
+  float: right;
+  width: 42%;
+  background-color: rgb(255, 255, 255, 0.7)
+}
+
+.sub-paragraphs {
+  font-size: 18px;
+  font-family: sans-serif;
+  color: #575757;
+}
+
+.media-container {
+  width: 100%;
+}
+
+.media-container table {
+  margin: auto;
+}
+
+.button-container {
+  padding: 10px;
+  width: 40%;
+  background-color: #c73614;
+  text-align: center;
+  font-family: sans-serif;
+  color: white;
+}
+
+.button-container:hover {
+  background-color: #94280f;
+}
+
+.button-container p {
+  margin: 5px 0;
+}
+
+.header {
+  color: #25898c;
+}
+
+.box {
+  clear:both;
+  width: 100%;
+  height: 125px;
+}
+
+.box1 {
+  width: 100%;
+  height: 50px;
+}
+
+.footer {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 16px;
+  color: #575757;
+}
