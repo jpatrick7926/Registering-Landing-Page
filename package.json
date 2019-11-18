@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jpatrick7926/Registering-Landing-Page/issues"
   },
-  "homepage": "https://jpatrick7926.github.io/Registering-Landing-Page"
+  "homepage": "https://jpatrick7926.github.io/Registering-Landing-Page",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
 }
